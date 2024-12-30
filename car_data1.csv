@@ -1,0 +1,6 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model,Origin,Quantity,City
+Toyota Camry,28.5,4,180.0,150,3200,9.0,2020,Japan,15,Tokyo
+Honda Accord,30.1,4,200.0,160,3100,8.5,2019,Japan,12,Osaka
+Ford Fusion,25.8,6,220.0,180,3500,7.8,2018,USA,20,Detroit
+Hyundai Sonata,27.3,4,190.0,170,3000,8.2,2022,Korea,10,Seoul
+Nissan Altima,29.7,4,210.0,155,2900,8.9,2021,Japan,18,Tokyo

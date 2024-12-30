@@ -1,0 +1,6 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model,Origin,Quantity,City
+Tesla Model S,100.0,0,0.0,400,4500,3.0,2022,USA,8,Los Angeles
+Chevrolet Bolt,120.5,0,0.0,200,3800,5.5,2021,USA,15,Detroit
+Nissan Leaf,95.2,0,0.0,150,3200,6.8,2020,Japan,10,Tokyo
+Ford Mustang Mach-E,85.0,0,0.0,300,4800,4.5,2023,USA,5,Detroit
+BMW i3,110.0,0,0.0,170,3600,7.0,2022,Germany,12,Munich

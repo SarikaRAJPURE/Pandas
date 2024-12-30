@@ -1,0 +1,6 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model,Origin,Quantity,City
+BMW X5,24.3,6,300.0,280,4200,8.2,2022,Germany,18,Munich
+Mercedes-Benz GLC,26.8,4,250.0,230,3800,7.5,2021,Germany,22,Stuttgart
+Audi Q7,22.5,6,280.0,260,4500,8.8,2020,Germany,15,Ingolstadt
+Volkswagen Tiguan,28.0,4,220.0,200,3500,9.0,2023,Germany,8,Berlin
+Volvo XC90,23.5,6,290.0,240,4000,7.0,2022,Sweden,10,Gothenburg
